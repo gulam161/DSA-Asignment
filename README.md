@@ -202,3 +202,16 @@ Input: matrix = [
 ]
 
 Output: 7 1 1 7 4 8 9 9 6 1 1 5 9 4 6 7 7 4 7 7 5 5 2 6 8
+
+# Longest Word in a String
+
+Problem 14: Write a function findLongestWord that takes a string as input and returns the longest word in the string. If there are multiple longest words, return the first one encountered.
+
+Instruction: The input string may contain alphabetic characters, digits, spaces, and punctuation. The input string is non-empty. The input string may contain multiple words separated by spaces.
+
+Note: If the input string is empty or contains only whitespace, the function should return false.
+The function should ignore leading and trailing whitespace when determining the longest word.
+
+Input: "JavaScript is the world's most popular programming language."
+
+Output : "programming"
